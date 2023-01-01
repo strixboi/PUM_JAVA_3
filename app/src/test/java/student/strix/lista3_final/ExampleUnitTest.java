@@ -1,4 +1,4 @@
-package com.example.lista3_final;
+package student.strix.lista3_final;
 
 import org.junit.Test;
 
